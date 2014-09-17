@@ -1,1 +1,0 @@
-f:\dev\mongodb\bin\mongod.exe -dbpath f:\dev\mongodb\shopdemo
